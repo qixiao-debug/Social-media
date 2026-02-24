@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/6ed953a9-82c7-4ba8-97bb-f0f1b
 3. Run the app:
    `npm run dev`
    test build
+rebuild
